@@ -1,0 +1,45 @@
+.jumbotron {
+	background: #FFDEAD;
+	color: 696969;
+}
+
+body {
+	background: url("http://4.bp.blogspot.com/-iwqDSYuZ16Y/VT9shZcduSI/AAAAAAAAFnk/NBk28o0pygY/s1600/Metro-Train-Very-Beautiful-Photos.jpg");
+}
+
+.container {
+	opacity: 0.95;
+}
+
+.panel-heading {
+	background: 696969;
+}
+
+
+
+
+
+/*var svArr = Object.keys(sv);
+      	console.log(svArr)
+
+      	// console.log(sv[svArr[0]])
+      	// console.log(sv[svArr[1]])
+      	// console.log(sv[svArr[2]])
+
+
+      	//Array [ "date", "name", "rate", "role" ]
+      // // Finding the last user's key
+      var lastIndex = svArr.length - 1;
+      // 		console.log(lastIndex)
+      var lastKey = svArr[lastIndex];
+      // 			console.log(lastKey)
+      // // Using the last user's key to access the last added user object
+      var lastObj = sv[lastKey]*/
+
+
+      /*console.log()
+
+      console.log(lastObj.name);
+      console.log(lastObj.role);
+      console.log(lastObj.date);
+      console.log(lastObj.rate);*/
